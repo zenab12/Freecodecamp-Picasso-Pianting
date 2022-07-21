@@ -5,3 +5,4 @@
 - > An absolute position takes the element out of that top-down document flow and allows you to adjust it relative to its container.
 - > The z-index property is used to create "layers" for your HTML elements. If you are familiar with image editing tools, you may have worked with layers before. This is a similar concept.
 - > The i element is used for idiomatic text, or text that is separate from the "normal" text content. This could be for italic text, such as scientific terms, or for icons like those provided by FontAwesome.
+![Screenshot 2022-07-21 at 23-38-42 Picasso Painting](https://user-images.githubusercontent.com/78083890/180319754-4c06c667-ef09-4e51-937d-a92ccb18483f.png)
